@@ -3,5 +3,3 @@
 Tutorial given by Daniel Siemaszko on 5th August at IEEE ICDCM 2024, Columbia SC**
 
 Python scripts calling a Simba.io model for running an MVDC model
-
-Models are still going under estethic polishing, they will be available soon, before article publication.
