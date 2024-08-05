@@ -3317,7 +3317,7 @@
                               "EnabledScopes": []
                             },
                             {
-                              "LibraryName": "Modulo",
+                              "LibraryName": "Sync_Modulo",
                               "Top": 1,
                               "Left": -9,
                               "Angle": 0,
@@ -3902,7 +3902,7 @@
                                     "Name": "C5"
                                   }
                                 ],
-                                "Name": "Modulo",
+                                "Name": "Sync_Modulo",
                                 "Variables": []
                               },
                               "SubcircuitDefinitionID": "700d8aa8-8a23-4f42-b6f6-a1f7b4a223aa"
@@ -3940,7 +3940,7 @@
                               "EnabledScopes": []
                             },
                             {
-                              "LibraryName": "Modulo",
+                              "LibraryName": "Sync_Modulo",
                               "Top": 31,
                               "Left": -9,
                               "Angle": 0,
@@ -3953,7 +3953,7 @@
                               "SubcircuitDefinitionID": "700d8aa8-8a23-4f42-b6f6-a1f7b4a223aa"
                             },
                             {
-                              "LibraryName": "Modulo",
+                              "LibraryName": "Sync_Modulo",
                               "Top": 21,
                               "Left": -9,
                               "Angle": 0,
@@ -3966,7 +3966,7 @@
                               "SubcircuitDefinitionID": "700d8aa8-8a23-4f42-b6f6-a1f7b4a223aa"
                             },
                             {
-                              "LibraryName": "Modulo",
+                              "LibraryName": "Sync_Modulo",
                               "Top": 11,
                               "Left": -9,
                               "Angle": 0,
